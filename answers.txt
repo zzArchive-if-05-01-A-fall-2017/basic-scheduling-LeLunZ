@@ -1,0 +1,10 @@
+In a hospital, when live data is needed.
+
+
+Process	A	B	C	  D	 E	F	 G	 H
+       	2 5	8  12 16 21 34	55
+        
+       
+In round robin scheduling, all processes in the ready queue are given equal time units. 
+CPU time is divided equally among the processes. 
+So if a process was listed twice, it would be granted twice the CPU time of the other processes.
